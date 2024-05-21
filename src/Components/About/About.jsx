@@ -24,6 +24,25 @@ export const About = () => {
               </p>
             </div>
           </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Backend Developer</h3>
+              <p>
+                I have experience developing fast and optimized backend sistems and APIs
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
+            <div className={styles.aboutItemText}>
+              <h3>UI Developer</h3>
+              <p>
+                I have designed multiple lading pages and have created design systems as well
+              </p>
+            </div>
+          </li>
+
         </ul>
       </div>
     </section>
