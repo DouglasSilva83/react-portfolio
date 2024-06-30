@@ -8,8 +8,9 @@ export const Hero = () => {
 
      <section className={styles.container}>
         <div className={styles.content}>
-            <h1 className={styles.title}>Hi, i`m Douglas</h1>
-            <p className={styles.description}>I`m a frontend developer with 8 months of experience using React and Node.JS, Reach out if you'd like to leam more!</p>
+            <h1 className={styles.title}>Hi, i'm Douglas</h1>
+            <p className={styles.description}>I'm a full-stack developer with 1 years of experience using React and
+            NodeJS. Reach out if you'd like to learn more!</p>
             <a href="mailto:i.douglasdcs@gmail.com" className={styles.contactBtn}>Contact Me</a>
         </div>
 
