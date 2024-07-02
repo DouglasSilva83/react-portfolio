@@ -7,7 +7,7 @@
       "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
       "imageSrc": "history/google.png"
     },
-    {
+    { 
       "role": "UI Designer",
       "organisation": "Mirosoft",
       "startDate": "Aug, 2021",
