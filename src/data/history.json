@@ -1,22 +1,22 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
-      "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "role": "Back-End Developer",
+      "organisation": "Ada Tech",
+      "startDate": "",
+      "endDate": "June, 2024",
+      "experiences": ["Back-End Development"],
+      "imageSrc": "history/adaTech.png"
     },
     { 
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
+      "role": "Front-End Developer",
+      "organisation": "Vai na Web",
+      "startDate": "Sept, 2023",
+      "endDate": "April, 2024",
+      "experiences": ["Front-End Development"],
+      "imageSrc": "history/vnw.jpeg"
     },
     {
-      "role": "SWE Intern",
+      "role": "EX: SWE Intern",
       "organisation": "Netflix",
       "startDate": "Apr, 2020",
       "endDate": "Jun, 2020",
