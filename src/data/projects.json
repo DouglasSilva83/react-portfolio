@@ -1,26 +1,28 @@
 [
-    {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    }
-  ]
+  {
+    "title": "Life Style",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://zpjw2j-5000.csb.app/",
+    "source": "https://github.com/DouglasSilva83/Desafio-3-Vai-Na-Web"
+  },
+
+  {
+    "title": "Prime Video",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": ["HTML","CSS"],
+    "demo": "https://x4nzj9-5000.csb.app/",
+    "source": "https://github.com/DouglasSilva83/Desafio-2-prime-video"
+  },
+  
+  {
+    "title": "McDonald's",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": ["React","Vite", "JS"],
+    "demo": "https://mc-hm1xyoxjp-douglas-silvas-projects-b33b7038.vercel.app/",
+    "source": "https://github.com/DouglasSilva83/mc_vnw"
+  }
+]
