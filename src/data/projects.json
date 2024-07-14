@@ -9,12 +9,12 @@
   },
 
   {
-    "title": "Prime Video",
+    "title": "SelfCare",
     "imageSrc": "projects/project.png",
     "description": "",
     "skills": ["HTML","CSS"],
-    "demo": "https://x4nzj9-5000.csb.app/",
-    "source": "https://github.com/DouglasSilva83/Desafio-2-prime-video"
+    "demo": "https://2zhfjm-5000.csb.app/",
+    "source": "https://github.com/DouglasSilva83/SelfCare"
   },
   
   {
