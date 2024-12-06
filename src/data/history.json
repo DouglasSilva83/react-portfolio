@@ -16,14 +16,13 @@
       "imageSrc": "history/vnw.jpeg"
     },
     {
-      "role": "EX: SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
+      "role": "Fullstack Developer",
+      "organisation": "Vai na Web",
+      "startDate": "Aug, 2024",
+      "endDate": "Mar, 2025",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
+        "Fullstack Developer"
       ],
-      "imageSrc": "history/netflix.png"
+      "imageSrc": "history/vnw.jpeg"
     }
   ]
